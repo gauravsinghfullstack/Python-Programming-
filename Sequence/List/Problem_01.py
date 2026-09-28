@@ -1,0 +1,13 @@
+list=[1,"hi","python",2]
+
+print(type(list))
+
+print(list)
+
+print(list[3:])
+
+print(list[0:2])
+
+print(list+list)
+
+print(list*3)
